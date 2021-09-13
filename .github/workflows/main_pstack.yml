@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'pstack'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C222E61B87EA4E44BF35D8D1B3DDC596 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A825683548DB4FBF83333F6BDFE56100 }}
           package: .
